@@ -1,0 +1,221 @@
+Creating Case Classification Sheets in NVivo
+
+1. Introduction
+
+NVivo is a qualitative data analysis software used by researchers to organize, analyze, and interpret qualitative data such as interviews, focus group discussions, and documents.
+
+One important feature of NVivo is Case Classification, which allows researchers to assign demographic and other descriptive attributes to participants or cases. This helps organize data and compare different groups during analysis.
+
+2. What Is Case Classification?
+
+Case classification is the process of assigning descriptive attributes to individual cases or participants in an NVivo project.
+
+These attributes may include:
+
+- Gender
+- Age or age group
+- Occupation or role
+- Educational background
+- Location
+- Other relevant participant characteristics
+
+Purpose of Case Classification
+
+Case classification helps researchers:
+
+- Organize participant information systematically.
+- Store demographic details alongside qualitative data.
+- Compare responses across different participant groups.
+- Identify similarities and differences in opinions and experiences.
+- Support structured and meaningful qualitative analysis.
+
+Example: A researcher studying environmental awareness can compare the views of participants from different age groups, genders, or locations.
+
+3. Objective
+
+To create a case classification sheet in NVivo, define demographic attributes and their values, and prepare the classification structure for linking participant cases and research data.
+
+4. Procedure for Creating Case Classifications
+
+Step 1: Open the NVivo Project
+
+1. Launch NVivo on your computer.
+2. Open the existing research project.
+3. Locate the Navigation View.
+
+Step 2: Navigate to Case Classifications
+
+1. In the Navigation View, locate the Data group.
+2. Find and expand the Cases folder.
+3. Locate the Case Classifications subfolder.
+4. Click on Case Classifications to open the working area.
+
+Step 3: Create a New Classification
+
+1. Right-click inside the blank working area under Case Classifications.
+
+2. Select New Classification from the context menu.
+
+3. Enter a descriptive name, such as:
+   
+   "Participant Demographics Sheet"
+
+4. Click OK to create the classification.
+
+The new classification provides a structure for defining participant attributes.
+
+5. Adding Demographic Attributes
+
+Attributes are the descriptive characteristics used to classify participants.
+
+Step 1: Create an Attribute
+
+1. Right-click the newly created classification.
+2. Select New Attribute.
+3. Enter the attribute name.
+
+Examples:
+
+- Gender
+- Age Group
+- Location
+- Occupation
+
+4. Confirm the attribute creation.
+
+Step 2: Define Attribute Values
+
+Each attribute can contain values that describe the participants.
+
+1. Open the attribute settings.
+2. Select the Values tab.
+3. Review the available default values.
+4. Click Add to create a custom value.
+5. Enter the required value.
+6. Repeat to add other values.
+7. Click OK to save the values.
+
+Example: Gender Attribute
+
+Attribute| Values
+Gender| Male
+Gender| Female
+Gender| Other, if relevant to the study
+
+Example: Age Group Attribute
+
+Attribute| Values
+Age Group| 18–25
+Age Group| 26–35
+Age Group| 36–45
+Age Group| Above 45
+
+The values should be selected according to the study requirements and the information collected from participants.
+
+6. Understanding Default Attribute Values
+
+NVivo may provide default values such as:
+
+- Unassigned: Indicates that a value has not yet been assigned to the case.
+- Not Applicable: Indicates that the attribute does not apply to the particular case.
+
+These values help researchers manage missing or irrelevant attribute information. They should be used appropriately and not treated as actual demographic responses.
+
+7. Managing and Organizing Attributes
+
+Deleting an Attribute
+
+1. Locate the attribute that needs to be removed.
+2. Right-click the attribute.
+3. Select Delete.
+4. Confirm the action if prompted.
+
+Only delete attributes that are no longer required for the study.
+
+Transferring Attributes
+
+If attributes have been created in another classification:
+
+1. Open the source classification.
+2. Select the required attributes.
+3. Right-click and choose Cut.
+4. Open the target classification.
+5. Right-click and choose Paste.
+
+Check that the attributes have been transferred correctly.
+
+Note: Menu names and available options may vary depending on the NVivo version.
+
+8. Example of a Participant Classification Sheet
+
+The following is an illustrative example of how participant information may be organized.
+
+Case ID| Gender| Age Group| Location
+P01| Female| 18–25| Urban
+P02| Male| 26–35| Rural
+P03| Female| 26–35| Urban
+
+The example uses fictional participant details. Actual values should be based on the research data and handled confidentially.
+
+9. Linking Cases to Classification Data
+
+After creating the classification and defining its attributes, the next step is to connect it to the actual research cases.
+
+A general workflow is:
+
+1. Create or identify the participant cases in the NVivo project.
+2. Assign the appropriate case classification to each participant case.
+3. Enter the relevant attribute values for each case.
+4. Verify that the values match the collected participant information.
+5. Organize and code the interview or other research sources.
+6. Use the classified cases to support comparisons during analysis.
+
+The classification sheet provides the structure; participant cases and their assigned values make it useful for analysis.
+
+10. Applications of Case Classification
+
+Case classification can be used in various qualitative research areas, including:
+
+- Healthcare research: Comparing experiences across participant groups.
+- Education: Examining differences in student or teacher experiences.
+- Environmental studies: Comparing environmental awareness across age groups or locations.
+- Social sciences: Exploring perspectives across demographic groups.
+- Market research: Organizing participant characteristics for qualitative customer research.
+
+11. Advantages
+
+1. Provides systematic organization of participant information.
+2. Supports comparison between different groups.
+3. Makes demographic data easier to manage.
+4. Improves the structure of qualitative analysis.
+5. Helps researchers explore patterns and differences in coded data.
+
+12. Key Takeaways
+
+- Case classification is used to assign descriptive attributes to cases in NVivo.
+- Attributes represent characteristics such as gender, age group, and location.
+- Attribute values define the possible categories for each characteristic.
+- Default values such as Unassigned and Not Applicable help manage attribute information.
+- Classification structures support comparisons across participant groups.
+- The next step is to link actual research cases to the classification and enter their attribute values.
+
+13. Conclusion
+
+Creating case classification sheets in NVivo is an important step in organizing qualitative research data. By defining classifications, adding demographic attributes, and specifying appropriate values, researchers can systematically manage participant information.
+
+Once cases are linked to the classification and their attributes are assigned, the organized data can be used to compare coded topics and explore differences between participant groups. This supports a more structured and transparent qualitative analysis process.
+
+14. Learning Outcomes
+
+After completing this task, I learned how to:
+
+- Understand the purpose of case classification in NVivo.
+- Navigate to the Case Classifications section.
+- Create a new classification sheet.
+- Add demographic attributes and define their values.
+- Manage and organize attributes.
+- Understand how classification data can support qualitative research analysis.
+
+References
+
+[1]–[5] Source materials cited in the provided study notes. Add the complete source titles, authors, publication details, or URLs if required by the assignment.
